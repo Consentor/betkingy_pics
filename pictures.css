@@ -6,74 +6,86 @@
 	text-shadow: 1px 0 10px #ffffffff, 0 1px 10px #ffffffff, -1px 0 10px #ffffffff, 0 -1px 10px #ffffffff;
 }
 
-.item.item3 {
-    background-position: center;
-    background-image: url(https://i.imgur.com/z8QREJ9.png);
-    background-repeat: no-repeat;
-}
-
-.item.item10 {
-    background-position: center;
-    background-image: url(https://i.imgur.com/PuKAB4d.png);
-    background-repeat: no-repeat;
-}
-
-.item.item11 {
-    background-position: center;
-    background-image: url(https://i.imgur.com/gkEJMPo.png);
-    background-repeat: no-repeat;
-}
-
-.item.item12 {
-    background-position: center;
-    background-image: url(https://i.imgur.com/oWHO6Uy.png);
-    background-repeat: no-repeat;
-}
-
-.item.item14 {
-    background-position: center;
-    background-image: url(https://i.imgur.com/noF5SnU.png);
-    background-repeat: no-repeat;
-}
-
-.item.item13 {
-    background-position: center;
-    background-image: url(https://i.imgur.com/o9UcgyQ.png);
-    background-repeat: no-repeat;
-}
-
-.item.item15 {
-    background-position: center;
-    background-image: url(https://i.imgur.com/1bzb1R9.png);
-    background-repeat: no-repeat;
-}
-
+/* Will the SEC make a statement about Telegram's activities in the last three weeks of 2022? */
 .item.item1 {
     background-position: center;
     background-image: url(https://i.imgur.com/gLEUzGp.png);
     background-repeat: no-repeat;
 }
 
+/* Will Pavel Durov make a New Year's greeting in his Telegram channel on Dec. 31, 2022? */
 .item.item2 {
     background-position: center;
     background-image: url(https://i.imgur.com/GM5adWw.png);
     background-repeat: no-repeat;
 }
 
-.item.item8 {
+/* Will a new product be launched on the Fragment site on the 4th of December 2022? */
+.item.item3 {
     background-position: center;
-    background-image: url(https://i.imgur.com/4xyGrAR.png);
+    background-image: url(https://i.imgur.com/z8QREJ9.png);
     background-repeat: no-repeat;
 }
 
+/* Will Changpeng @cz_binance Zhao (CEO of Binance) tweet about the trust wallet on the 3rd or 4th of December, 2022? */
+.item.item5 {
+    background-position: center;
+    background-image: url(https://i.imgur.com/UQLsOmQ.png);
+    background-repeat: no-repeat;
+}
+
+/* Will Toncoin be listed on Binance in Q1 2023? */
 .item.item7 {
     background-position: center;
     background-image: url(https://i.imgur.com/sTXb4yL.png);
     background-repeat: no-repeat;
 }
 
-.item.item5 {
+/* Will the ton.org website be translated to russian on the last week of 2022 (26.12 — 31.12)? */
+.item.item8 {
     background-position: center;
-    background-image: url(https://i.imgur.com/UQLsOmQ.png);
+    background-image: url(https://i.imgur.com/4xyGrAR.png);
+    background-repeat: no-repeat;
+}
+
+/* Will England beat Senegal on the 4th of December at the 2022 World Cup in the 1/8 finals? */
+.item.item10 {
+    background-position: center;
+    background-image: url(https://i.imgur.com/PuKAB4d.png);
+    background-repeat: no-repeat;
+}
+
+/* Will France beat Poland on the 4th of December at the 2022 World Cup in the 1/8 finals? */
+.item.item11 {
+    background-position: center;
+    background-image: url(https://i.imgur.com/gkEJMPo.png);
+    background-repeat: no-repeat;
+}
+
+/* Will Japan beat Croatia on the 5th of December at the 2022 World Cup in the 1/8 finals? */
+.item.item12 {
+    background-position: center;
+    background-image: url(https://i.imgur.com/oWHO6Uy.png);
+    background-repeat: no-repeat;
+}
+
+/* Will Morocco beat Spain on the 6th of December at the 2022 World Cup in the 1/8 finals? */
+.item.item13 {
+    background-position: center;
+    background-image: url(https://i.imgur.com/o9UcgyQ.png);
+    background-repeat: no-repeat;
+}
+
+/* Will Brazil beat South Korea on the 5th of December at the 2022 World Cup in the 1/8 finals? */
+.item.item14 {
+    background-position: center;
+    background-image: url(https://i.imgur.com/noF5SnU.png);
+    background-repeat: no-repeat;
+}
+
+/* Will Portugal beat Switzerland on the 6th of December at the 2022 World Cup in the 1/8 finals? */
+.item.item15 {
+    background-position: center;
+    background-image: url(https://i.imgur.com/1bzb1R9.png);
     background-repeat: no-repeat;
 }
