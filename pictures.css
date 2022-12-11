@@ -71,6 +71,11 @@
 	background-image: url(https://i.imgur.com/1bzb1R9.png);
 }
 
+/* Will the total amount of bets (on this site) on the final match of the 2022 FIFA World Cup exceed 200 TON? */
+.item.item24 {
+	background-image: url(https://i.imgur.com/FzgJ1ir.png);
+}
+
 /* Will Argentina beat Croatia on the 13th of December at the 2022 World Cup in the semi-finals? */
 .item.item25 {
 	background-image: url(https://i.imgur.com/QQzIQ0a.png);
