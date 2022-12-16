@@ -71,6 +71,11 @@
 	background-image: url(https://i.imgur.com/1bzb1R9.png);
 }
 
+/* Will the Telegram team release a TON wallet between December 19 and 25, 2022? */
+.item.item18 {
+	background-image: url(https://i.imgur.com/EsIyco6.png);
+}
+
 /* Will the total amount of bets (on this site) on the final match of the 2022 FIFA World Cup exceed 200 TON? */
 .item.item24 {
 	background-image: url(https://i.imgur.com/FzgJ1ir.png);
@@ -84,4 +89,14 @@
 /* Will France beat Morocco on the 14th of December at the 2022 World Cup in the semi-finals? */
 .item.item26 {
 	background-image: url(https://i.imgur.com/6tEW2yB.png);
+}
+
+/* Will Argentina beat France on the 18th of December at the 2022 World Cup in the final? */
+.item.item30 {
+	background-image: url(https://i.imgur.com/5QggRJJ.png);
+}
+
+/* Will Croatia beat Morocco on the 17th of December at the 2022 World Cup in the third place play-off? */
+.item.item31 {
+	background-image: url(https://i.imgur.com/eVCUDRD.png);
 }
