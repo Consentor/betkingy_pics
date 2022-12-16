@@ -13,7 +13,7 @@
 
 /* Will the SEC make a statement about Telegram's activities in the last three weeks of 2022? */
 .item.item1 {
-	background-image: url(https://i.imgur.com/gLEUzGp.png);
+	background-image: url(https://i.imgur.com/bCFwKJ7.png);
 }
 
 /* Will Pavel Durov make a New Year's greeting in his Telegram channel on Dec. 31, 2022? */
@@ -33,12 +33,12 @@
 
 /* Will Toncoin be listed on Binance in Q1 2023? */
 .item.item7 {
-	background-image: url(https://i.imgur.com/sTXb4yL.png);
+	background-image: url(https://i.imgur.com/ORstQBO.png);
 }
 
 /* Will the ton.org website be translated to russian on the last week of 2022 (26.12 — 31.12)? */
 .item.item8 {
-	background-image: url(https://i.imgur.com/4xyGrAR.png);
+	background-image: url(https://i.imgur.com/L91XiBK.png);
 }
 
 /* Will England beat Senegal on the 4th of December at the 2022 World Cup in the 1/8 finals? */
@@ -104,6 +104,11 @@
 /* Will the Libermall NFT Marketplace start working on TON main net in the last two weeks of 2022? */
 .item.item27 {
 	background-image: url(https://i.imgur.com/ott3tYu.png);
+}
+
+/* Will the Bitcoin price reach $20000 at the end of the day on the 31st of December (as quoted by CMC)? */
+.item.item28 {
+	background-image: url(https://i.imgur.com/zKjse0L.png);
 }
 
 /* Will the promised 833 TON be sent to Vudi's CryptoBot wallet on the last two weeks of 2022 (19.12 — 31.12)? */
