@@ -81,6 +81,11 @@
 	background-image: url(https://i.imgur.com/vNmUHR2.png);
 }
 
+/* Will STON.fi be ahead of the DeDust.io project in implementing liquidity yield monitoring? */
+.item.item20 {
+	background-image: url(https://i.imgur.com/30yrc6d.png);
+}
+
 /* Will the total amount of bets (on this site) on the final match of the 2022 FIFA World Cup exceed 200 TON? */
 .item.item24 {
 	background-image: url(https://i.imgur.com/FzgJ1ir.png);
@@ -94,6 +99,16 @@
 /* Will France beat Morocco on the 14th of December at the 2022 World Cup in the semi-finals? */
 .item.item26 {
 	background-image: url(https://i.imgur.com/6tEW2yB.png);
+}
+
+/* Will the Libermall NFT Marketplace start working on TON main net in the last two weeks of 2022? */
+.item.item27 {
+	background-image: url(https://i.imgur.com/ott3tYu.png);
+}
+
+/* Will the promised 833 TON be sent to Vudi's CryptoBot wallet on the last two weeks of 2022 (19.12 — 31.12)? */
+.item.item29 {
+	background-image: url(https://i.imgur.com/8WqlgnL.png);
 }
 
 /* Will Argentina beat France on the 18th of December at the 2022 World Cup in the final? */
