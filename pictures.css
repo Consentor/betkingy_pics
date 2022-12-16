@@ -18,7 +18,7 @@
 
 /* Will Pavel Durov make a New Year's greeting in his Telegram channel on Dec. 31, 2022? */
 .item.item2 {
-	background-image: url(https://i.imgur.com/GM5adWw.png);
+	background-image: url(https://i.imgur.com/nckmDHZ.png);
 }
 
 /* Will a new product be launched on the Fragment site on the 4th of December 2022? */
@@ -74,6 +74,11 @@
 /* Will the Telegram team release a TON wallet between December 19 and 25, 2022? */
 .item.item18 {
 	background-image: url(https://i.imgur.com/EsIyco6.png);
+}
+
+/* Will Pavel Durov post a message about TON on his Telegram channel on December 23, 2022? */
+.item.item19 {
+	background-image: url(https://i.imgur.com/vNmUHR2.png);
 }
 
 /* Will the total amount of bets (on this site) on the final match of the 2022 FIFA World Cup exceed 200 TON? */
