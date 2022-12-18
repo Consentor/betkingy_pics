@@ -11,6 +11,18 @@
 	background-repeat: no-repeat;
 }
 
+#events .items .item .huinya {
+	height: 47px;
+}
+
+#events .items .item .yesno .yes {
+	height: 47px;
+}
+
+#events .items .item .yesno .no {
+	height: 47px;
+}
+
 /* Will the SEC make a statement about Telegram's activities in the last three weeks of 2022? */
 .item.item1 {
 	background-image: url(https://i.imgur.com/bCFwKJ7.png);
