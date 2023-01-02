@@ -32,3 +32,18 @@
 .item.item20 {
 	background-image: url(https://i.imgur.com/30yrc6d.png);
 }
+
+/* TON Society allocates a grant to Investkingyru in January 2023 (10.01 — 31.01) */
+.item.item25 {
+	background-image: url(https://i.imgur.com/2CPV3P5.png);
+}
+
+/* TON Rocket supports P2P (fiat) by the end of January 2023 (16.01 — 31.01) */
+.item.item9825156645436 {
+	background-image: url(https://i.imgur.com/xtYK9Xo.png);
+}
+
+/* Telegram team releases DEX on TON in 1Q 2023 (16.01 — 31.03) */
+.item.item8837065994707 {
+	background-image: url(https://i.imgur.com/T7XtFSW.png);
+}
