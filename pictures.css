@@ -77,3 +77,8 @@
 .item.item6284873864192 {
 	background-image: url(https://i.imgur.com/8cPoHzw.png);
 }
+
+/* $SCALE price exceeds $AMBR price at the end of the day on January 31 (according to CMC) */
+.item.item1673181828 {
+	background-image: url(https://i.imgur.com/x2u5zh9.png);
+}
