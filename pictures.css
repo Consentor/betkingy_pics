@@ -23,6 +23,11 @@
 	height: 47px;
 }
 
+/* default */
+.item {
+	background-image: url(https://i.imgur.com/r5LQaXK.png);
+}
+
 /* Will Toncoin be listed on Binance in Q1 2023? */
 .item.item7 {
 	background-image: url(https://i.imgur.com/ORstQBO.png);
@@ -176,4 +181,9 @@
 /* Количество сминченых арбузов на tonarbuz.fun превысит 15000 с 11 по 13 июля */
 .item.item1688753788 {
 	background-image: url(https://i.imgur.com/UW6gNCy.png);
+}
+
+/* Количество зарегистрированных кошельков в сети TON превысит 3 000 000 с 14 до 16 июля (по данным с tonviewer.com) */
+.item.item1689142658 {
+	background-image: url(https://i.imgur.com/nL5iOkn.png);
 }
